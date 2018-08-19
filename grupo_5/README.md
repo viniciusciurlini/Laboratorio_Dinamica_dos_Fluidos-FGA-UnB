@@ -63,3 +63,29 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 -	Apresentação de gráficos e sua respectiva análise;
 -	Comparação dos resultados com a teoria envolvida;
 -	Conclusões do experimento;
+
+
+# Relatório Dinâmica dos Fluidos - Grupo 5 #
+
+## 1. Início - Entrega 19/08/2018 ##
+
+### Integrantes do grupo ###
+
+- Julia Ribeiro Felipe - 16/0129001
+- Natalia Martimon - 16/0139643
+
+### Tema escolhido: ### 
+
+Tubo Venturi.
+
+### Objetivos do experimento ###
+- Medir a velocidade de escoamento de um líquido incompressível;
+- Medir a vazão de escoamento de um líquido incompressível;
+
+### Escopo do experimento ###
+- A fim de cumprir os objetivos acima citados, o grupo deverá construir um Tubo Venturi que supra as necessidades do experimento e exigências da disciplina. Serão usados objetos caseiros para a construção do equipamento.
+- Será de responsabilidade das integrantes do grupo a obtenção dos materiais necessários para a confecção do equipamento que será usado no experimento.
+- Para fins de análise e manipulação dos resultados, faz-se necessários que as integrantes do grupo tenham vasto conhecimento no que tange a teoria relacionada ao experimento. 
+
+
+
