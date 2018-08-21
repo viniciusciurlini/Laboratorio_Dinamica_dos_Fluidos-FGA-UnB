@@ -64,3 +64,25 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 -	Apresentação de gráficos e sua respectiva análise;
 -	Comparação dos resultados com a teoria envolvida;
 -	Conclusões do experimento;
+
+
+**RELATÓRIO 1 - GRUPO 8**
+
+Integrantes do grupo:
+
+Beatriz Carolina - 16/0002958
+Gustavo Saraiva - 16/0050537
+Renato Nascimento - 16/0143551
+
+Tema escolhido: Turbulência em fluidos 
+
+Objetivo do experimento – O que será medido ou determinado no experimento;
+
+A maioria dos sistemas reais os escoamentos são turbulentos e podem apresentar diversos níveis de turbulência. O objetivo desse experimento é o de analisar o grau de turbulência de escoamentos através do cálculo do número de Reynolds.
+
+Escopo do experimento – Estabelecimento de tarefas mínimas para cumprir os objetivos do experimento;
+
+- Definição e conhecimento acerca da teoria básica da dinâmica de escoamento de fluidos;
+- Definição através de pesquisa de campo e exploratória para a obtenção e construção do material necessário para a realização do experimento;
+- Pesquisar qual a funcionalidade do número de Reynolds e como tal pode demonstrar características de um fluido;
+- Através da pesquisa sobre o número de Reynolds, escolher o(s) fluido(s) de pesquisa e realizar os experimentos de escoamento para analisarmos quais são as características de tal utilizando a teoria por trás do número de Reynolds. Além de concluir como este número pode ser utilizado na escolha de projetos ou missões, a partir da pesquisa experimental. 
