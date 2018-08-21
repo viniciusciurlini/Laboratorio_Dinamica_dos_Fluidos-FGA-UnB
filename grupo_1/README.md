@@ -65,3 +65,40 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 -	Apresentação de gráficos e sua respectiva análise;
 -	Comparação dos resultados com a teoria envolvida;
 -	Conclusões do experimento;
+
+Grupo 1 - Etapa 1 - Início
+
+Integrantes do grupo:
+
+Felipe Caleffi Laux - 160119545
+Erika Kamada  Tomita - 160119120
+Caio Augusto Chaves - 160114985
+
+Tema:
+
+Perda de carga
+
+Objetivo:
+
+Analisar a perda de carga de um fluido em escoamento utilizando tubulação de PVC e medindo a diferença de pressão através de manômetros. Para isso serão utilizadas duas configurações experimentais diferentes, em uma delas será utilizado um cano liso  e na outra será adicionado um joelho ao mesmo. 
+Na primeira configuração será analisada a relação entre a perda de carga distribuída e a vazão Q, bem como o comportamento do fator de atrito em função do número de Reynolds. Já na segunda será analisada a perda de carga singular devido a mudança de direção do fluido causada pelo joelho, igualmente utilizando-se os manômetros, a vazão e as relações existentes com o número de Reynolds.
+
+Escopo do Experimento:
+
+Para a elaboração do experimento, os membros do grupo deverão comprar os materiais faltantes (ver lista de materiais) e construir o experimento. 
+O experimento consiste em medir os parâmetros necessários e após isso, realizar os cálculos e os gráficos relacionados à perda de carga.
+Ao final, fazer a análise dos resultados obtidos seguida da comparação entre o que é teoricamente esperado.   
+
+ 
+Lista de material:
+Tubulação de PVC (tubo liso e joelho)
+Mangueira transparente para construção do manômetro
+Registro
+Balde
+Veda Rosca
+Cola de PVC
+Serra
+Cronômetro
+Recipiente para medição de volume
+Régua
+
