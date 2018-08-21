@@ -67,15 +67,19 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 ### Relatório 01 - Grupo 14
 
 - Integrantes:
+
   Pedro Henrique de Sousa Santos - 15/0144342
   Gustavo Henrique Yabuki Dubas - 15/0128649
 
 - Tema:
+
   Efeito Bernoulli.
 
 - Objetivo:
+
   Comprovar, experimentalmente, a existência do "Efeito Bernoulli". Utilizando o tubo de escoamento do laboratório de termofluidos, serão medidas as pressões antes e depois de um bocal.
 
 - Escopo:
+
   Para executar o experimento, serão pesquisadas bases teóricas sobre o "Efeito Bernoulli". O experimento será executado no laboratório de termofluidos, utilizando o tubo de escoamento e medindo as pressões antes e depois de um bocal. 
 
