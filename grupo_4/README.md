@@ -4,28 +4,22 @@
   - Gustavo Lima de Souza - 15/0059973
   - Bruno Souza Nunes - 18/0117670
 
-### 1.	Início: ###
+## 1.	Início: ##
 
-Os temas disponíveis são:
+### Integrantes do grupo ###
+  - Luiz Henrique F. Alves - 17/0163130
+  - Gustavo Lima de Souza - 15/0059973
+  - Bruno Souza Nunes - 18/0117670
+  
+### Tema escolhido ###
+Perda de carga.
 
--	Linhas de trajetória de um escoamento fluido
--	Linhas de emissão de um escoamento fluido
--	Vorticidade
--	Efeito Magnus
--	Efeito de Bernoulli
-- Tubo Venturi
--	Placa de Orifício
--	Perda de Carga
--	Controle de Camada Limite
--	Turbulência em Fluidos
--	Experimentos em túnel de vento
+### Objetivo do experimento ###
+Construção de um experimento que permita medir pressão ou velocidade da água através de uma série de canos, levando em conta o princípio de perda de carga.
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 19/08/2018**, contendo os seguintes tópicos:
+### Escopo do experimento ###
+Conseguir planejar e executar um experimento sobre o tema escolhido, visando compreender melhor os fenômenos envolvidos através da experimentação e comparação com resultados encontrados na literatura, além de designar atividades a cada membro ao longo da execução, seguir o cronograma estimado para cumprimento das etapas, documentar cada etapa de forma clara e objetiva e se atentar ao prazo disponível para conclusão do experimento.
 
--	Integrantes do grupo;
--	Tema escolhido;
--	Objetivo do experimento – O que será medido ou determinado no experimento;
--	Escopo do experimento – Estabelecimento de tarefas mínimas para cumprir os objetivos do experimento;
 
 ### 2.	Planejamento e Preparação: ###
 
