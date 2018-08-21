@@ -64,3 +64,26 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 -	Apresentação de gráficos e sua respectiva análise;
 -	Comparação dos resultados com a teoria envolvida;
 -	Conclusões do experimento;
+
+## Relatório 01 - Grupo 02
+
+### Integrantes
+- Richard da Silva Francisco de Souza - 14/0091793
+- Luyza Lorenna L. Lopes - 16/0135133
+- Matheus de Avila Mariano - 16/0137896
+
+### Tema
+
+Experimentos em túnel de vento
+
+### Objetivo do experimento
+
+Medir o coeficiente de arrasto de um objeto(à determinar).
+
+### Escopo do experimento
+
+- Levantamento da teoria necessária para a realização do experimento;
+- Levantamento de dados e variáveis necessários para o cálculo;
+- Levantamento das forças devidas as ações estática e dinâmica do vento;
+- Escolha do objeto a ser analisado no experimento em questão;
+- Realização do experimento em si, com o túnel de vento do Laboratório de Termofluidos da FGA.
