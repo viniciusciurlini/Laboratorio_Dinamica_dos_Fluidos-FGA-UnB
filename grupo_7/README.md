@@ -1,67 +1,27 @@
-# Relatório do Grupo 7: #
+# Relatório do Grupo 7: # 
+
+### 1.	Início: ###
+
+### 1.1. Integrantes do Grupo: ###
 
   - Matheus Barbosa Dantas de Freitas - 14/0028285
   - Douglas Silva de Melo - 15/0123485
   - André Laignier Barroso - 15/0117566
+  
+### 1.2. Tema escolhido ###
 
-### 1.	Início: ###
+  - Efeito Bernoulli.
+  
+### 1.3. Objetivo do experimento ###
 
-Os temas disponíveis são:
+  Observar o que o efeito de bernoulli pode trazer em relação a mudança de valores de pressão e outros parâmetros no experimento proposto.
 
--	Linhas de trajetória de um escoamento fluido
--	Linhas de emissão de um escoamento fluido
--	Vorticidade
--	Efeito Magnus
--	Efeito de Bernoulli
-- Tubo Venturi
--	Placa de Orifício
--	Perda de Carga
--	Controle de Camada Limite
--	Turbulência em Fluidos
--	Experimentos em túnel de vento
+### 1.4. Escopo ###
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 19/08/2018**, contendo os seguintes tópicos:
-
--	Integrantes do grupo;
--	Tema escolhido;
--	Objetivo do experimento – O que será medido ou determinado no experimento;
--	Escopo do experimento – Estabelecimento de tarefas mínimas para cumprir os objetivos do experimento;
-
-### 2.	Planejamento e Preparação: ###
-
-
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 26/08/2018**, contendo os seguintes tópicos:
-
-- Identificação do grupo;
-- Teoria do experimento;
-- Procedimentos experimentais, onde as seguintes informações deverão ser colocadas:
-    - Estimativa do tempo necessário para a montagem e execução do procedimento;
-    - Membro do grupo responsável pelo procedimento de montagem e execução;
-    - Cronograma estimado para a montagem e realização do experimento completo;
-- Determinação dos dados a serem medidos e/ou calculados;
-- Resultados esperados;
-
-
-### 3.	Execução: ###
-
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 04/11/2018**, contendo os seguintes tópicos:
-
-- Integrantes do grupo;
-- Divisão de tarefas, conforme descrito na etapa 2. Se houver mudança em relação à etapa 2, uma justificativa deverá ser apresentada;
-- Descrição dos procedimentos realizados, onde deverão ser apresentados:
-  - Fotos do experimento montado;
-  - Descrição de cada procedimento executado e justificativa, se houver diferença com a etapa 2;
-  - Dados medidos;
-
-
-### 4.	Análise e conclusão: ###
-
-
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 18/11/2018**, contendo os seguintes tópicos:
-
--	Integrantes do grupo;
--	Apresentação dos dados medidos no experimento com seu respectivo erro experimental;
--	Apresentação de gráficos e sua respectiva análise;
--	Comparação dos resultados com a teoria envolvida;
--	Conclusões do experimento;
-
+ - Para cumprir com o objetivo proposto, o grupo vai montar um experimento com as condições necessárias para a observação do efeito de Bernoulli e que seja possível obter valores importantes;
+  
+ - A confecção do experimento vai utilizar materiais e equipamentos do laboratório de fluidos que estejam disposniveis aos alunos além de materiais obtidos pelos proprios integrantes do grupo.
+ 
+ - Cada membro terá um papel definido no experimento, porém, cada integrante terá o dever de revisar e complementar todos os resultados obtidos.
+ 
+ - Por fim os resultados serão estudados e colocados nos relatórios junto com sua análise detalhada nos prazos estabelecidos.
