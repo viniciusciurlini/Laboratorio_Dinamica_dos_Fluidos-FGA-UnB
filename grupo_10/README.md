@@ -22,6 +22,8 @@ Os temas disponíveis são:
 
 O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 19/08/2018**, contendo os seguintes tópicos:
 
+### Nota da etapa: 2,5 ###
+
 -	Integrantes do grupo;
   - Thainá Rodrigues Fernandes - 14/0051724
   - Danyllo Wenceslau - 16/0117364
