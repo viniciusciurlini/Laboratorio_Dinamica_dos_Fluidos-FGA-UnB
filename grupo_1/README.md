@@ -68,6 +68,8 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 Grupo 1 - Etapa 1 - Início
 
+### Nota da etapa: 2,5 ###
+
 Integrantes do grupo:
 
 Felipe Caleffi Laux - 160119545
