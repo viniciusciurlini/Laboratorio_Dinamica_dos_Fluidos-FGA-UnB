@@ -7,10 +7,13 @@
 
 # RELATÓRIO 1 - GRUPO 9 #
 
+### Nota da etapa: 2,5 ###
+
 1 - Integrantes do grupo:
-Gabriel Casari - 13/0009091
-Bruno Martins - 14/0017682
-Letícia Dias - 14/0149414
+
+- Gabriel Casari - 13/0009091
+- Bruno Martins - 14/0017682
+- Letícia Dias - 14/0149414
 
 2 - Tema escolhido: Perda de Carga
 
