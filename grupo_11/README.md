@@ -3,6 +3,10 @@
   - Abia Matos de Oliveira - 15/0004206
   - Gabriel Batista dos Santos Sousa - 14/0020381
   - Mairon Cruvinel - 09/0123999
+  
+  ### Nota da etapa: 2,0 ###
+  
+  - O grupo deverá refazer a etapa 1 para manter a nota!
 
 ### 1.	Início: ###
 
