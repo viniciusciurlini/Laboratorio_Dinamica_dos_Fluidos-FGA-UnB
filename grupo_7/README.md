@@ -1,6 +1,6 @@
 # Relatório do Grupo 7: # 
 
-### Nota da etapa: 2,5 ###
+### Nota da etapa: 2,0 ###
 - Escopo genérico
 
 ### 1.	Início: ###
