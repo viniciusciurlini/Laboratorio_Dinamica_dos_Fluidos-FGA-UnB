@@ -6,6 +6,8 @@
 
 ## 1.	Início: ##
 
+### Nota da etapa: 2,5 ###
+
 ### Integrantes do grupo ###
   - Luiz Henrique F. Alves - 17/0163130
   - Gustavo Lima de Souza - 15/0059973
