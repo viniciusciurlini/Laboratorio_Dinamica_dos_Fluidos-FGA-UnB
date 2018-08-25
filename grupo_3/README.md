@@ -1,5 +1,7 @@
 # Relatório do Grupo 3: #
 
+### Nota da etapa: 2,5 ###
+
 ### 1.	Integrantes do grupo: ###
 
   - Vitor Rodrigues Rossi - 14/0066632
