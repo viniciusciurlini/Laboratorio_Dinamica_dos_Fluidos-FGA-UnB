@@ -66,6 +66,8 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 ### Relatório 01 - Grupo 14
 
+### Nota da etapa: 2,5 ###
+
 - Integrantes:
 
   Pedro Henrique de Sousa Santos - 15/0144342
