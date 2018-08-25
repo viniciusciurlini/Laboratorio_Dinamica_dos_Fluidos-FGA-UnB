@@ -67,6 +67,8 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 ## Relatório 01 - Grupo 02
 
+### Nota da etapa: 2,5 ###
+
 ### Integrantes
 - Richard da Silva Francisco de Souza - 14/0091793
 - Luyza Lorenna L. Lopes - 16/0135133
