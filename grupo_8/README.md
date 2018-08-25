@@ -68,11 +68,13 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 **RELATÓRIO 1 - GRUPO 8**
 
+### Nota da etapa: 2,5 ###
+
 Integrantes do grupo:
 
-Beatriz Carolina - 16/0002958
-Gustavo Saraiva - 16/0050537
-Renato Nascimento - 16/0143551
+- Beatriz Carolina - 16/0002958
+- Gustavo Saraiva - 16/0050537
+- Renato Nascimento - 16/0143551
 
 Tema escolhido: Turbulência em fluidos 
 
