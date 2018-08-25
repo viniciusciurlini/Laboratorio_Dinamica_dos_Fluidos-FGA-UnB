@@ -65,7 +65,7 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 -	Conclusões do experimento;
 
 
-# Relatório Dinâmica dos Fluidos - Grupo 5 #
+# Relatório Dinâmica dos Fluidos - Grupo 5 # - Nota da Etapa: 2,5
 
 ## 1. Início - Entrega 19/08/2018 ##
 
