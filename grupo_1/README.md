@@ -265,11 +265,13 @@ Determinação dos dados a serem medidos e/ou calculados:
 Para a realização dos cálculos, o grupo irá utilizar uma tabela feita em excel, que servirá para agilizar os cálculos, além de facilitar a análise.
 
 Parte I:
-![tabela1-1](https://user-images.githubusercontent.com/42500468/44632369-ef791300-a94f-11e8-9432-2e137d6308f6.jpg)
+
+![paint1](https://user-images.githubusercontent.com/42500468/44632625-57c9f380-a954-11e8-96a3-2cbc05050dc8.jpg)
 
 Parte II: 
 
-![tabela2-1](https://user-images.githubusercontent.com/42500468/44632370-ef791300-a94f-11e8-9e84-0a4ac8b1180a.jpg)
+![paint2](https://user-images.githubusercontent.com/42500468/44632626-58628a00-a954-11e8-9e81-d8b312d4847f.jpg)
+
 Resultados esperados:
 
 É esperado, do experimento e dos cálculos a serem realizados, analisar a perda de carga nas duas tubulações, plotando os gráficos da perda de carga distribuída e da perda de carga singular em função da vazão previamente conhecida (hf x Q) e (hs x Q).
