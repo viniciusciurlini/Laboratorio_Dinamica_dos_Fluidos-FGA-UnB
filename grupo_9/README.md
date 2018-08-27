@@ -11,9 +11,11 @@ Bruno Martins - 14/0017682
 Letícia Dias - 14/0149414
 
 2.1 FUNDAMENTAÇÃO TEÓRICA 
-A presente etapa, descrição do experimento, decidiu-se pela elaboração de um ensaio, no qual será possível observar as Perdas de Carga Distribuída e Localizada. Sendo a primeira definida por uma perda de pressão distribuída ao longo do comprimento do tubo, causada pela parede dos dutos. Após um determinado intervalo de tempo a pressão total irá diminuir, isso ocorre devido ao atrito entre o fluído e a tubulação. Nesse caso, deve se levar em consideração o diâmetro (D), comprimento do tubo (L), rugosidade da parede https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/issues/18#issue-354130305, massa específica https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/issues/21#issue-354130666, viscosidade https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/issues/19#issue-354130541 e por fim da velocidade do escoamento (V).
+A presente etapa, descrição do experimento, decidiu-se pela elaboração de um ensaio, no qual será possível observar as Perdas de Carga Distribuída e Localizada. Sendo a primeira definida por uma perda de pressão distribuída ao longo do comprimento do tubo, causada pela parede dos dutos. Após um determinado intervalo de tempo a pressão total irá diminuir, isso ocorre devido ao atrito entre o fluído e a tubulação. Nesse caso, deve se levar em consideração o diâmetro (D), comprimento do tubo (L), rugosidade da parede ![codecogseqn 4](https://user-images.githubusercontent.com/42454195/44633136-15f17b00-a95d-11e8-9ffb-3ebddface159.gif)
+, massa específica![codecogseqn 6](https://user-images.githubusercontent.com/42454195/44633192-f0b13c80-a95d-11e8-9536-7470ca3627b0.gif), viscosidade ![codecogseqn 5](https://user-images.githubusercontent.com/42454195/44633175-adef6480-a95d-11e8-82b0-17035bc0d7bb.gif) e por fim da velocidade do escoamento (V).
             	Sendo assim, define-se a diferença da pressão total entre a entrada e saída do fluido como a perda de carga na tubulação. Obtendo assim a seguinte expressão:
-                           https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/issues/16#issue-354125934
+                         ![codecogseqn](https://user-images.githubusercontent.com/42454195/44632668-f6eeeb00-a954-11e8-9aff-b05253e13c08.gif)
+
  
 Onde tem-se:
 P = Pressão estática (Kgf/m²)
@@ -22,8 +24,7 @@ Z = cota (m)
 RÔ = massa específica (UTM/m²)
             	
 Em Perda de Carga Localizada tem-se que a perda ocorre devido aos instrumentos utilizados ao longo da tubulação, como por exemplo: joelhos e válvulas. Esses acessórios provocam variação de velocidade, controlando o fluxo do escoamento de acordo com o que se adequa a situação. Com isso, tem-se que para cálculo da perda de carga localizada, utiliza-se a equação:
-                                https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/issues/17#issue-354126018
- 
+                                ![codecogseqn 1](https://user-images.githubusercontent.com/42454195/44632678-2c93d400-a955-11e8-83c7-522d204b0024.gif)
 Onde tem-se:
 ks = coeficiente de perda de carga
 Q = vazão [m²/s]
