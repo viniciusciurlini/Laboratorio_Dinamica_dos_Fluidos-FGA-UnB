@@ -92,4 +92,8 @@ https://user-images.githubusercontent.com/42424593/44637994-eb1e1b80-a98a-11e8-9
  ## 2.4 Resultados esperados: ##
  
   O efeito Bernoulli baseia-se na observação de que com a movimentação do ar, a pressão do mesmo diminui, então, partindo-se desta         ideia, é esperado que a bolinha se mantenha flutuando no fluxo de ar do secador, pois o secador provocará um fluxo de ar com             velocidade maior que o ar da vizinhança (ar ambiente), propiciando uma pressão menor e o ar ascendente será suficiente para manter a     bolinha em suspensão. A bolinha se manterá ao centro deste fluxo, visto que a pressão do ar mais lento, o ar periférico do fluxo, a     forçará a se manter no ponto onde a pressão é menor, ou seja, no centro do fluxo.
+  
+  # Referências #
+  
+  [1] Verificação de equação de Bernoulli. ISEL. Lisboa. Disponível em: <https://www.academia.edu/12784703/Relat%C3%B3rio_Laboratorial_de_Mec%C3%A2nica_dos_Flu%C3%ADdos_sobre_a_Equa%C3%A7%C3%A3o_de_Bernoulli>
 
