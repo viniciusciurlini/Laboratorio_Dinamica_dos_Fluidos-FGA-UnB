@@ -27,7 +27,6 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 -	Objetivo do experimento – O que será medido ou determinado no experimento;
 -	Escopo do experimento – Estabelecimento de tarefas mínimas para cumprir os objetivos do experimento;
 
-asdfsdafasdfasd
 
 ### 2.	Planejamento e Preparação: ###
 
