@@ -27,7 +27,9 @@ No escoamento laminar o escoamento em camadas planas onde as moléculas do fluid
 Já regime turbulento o escoamento é visto com oscilações das molécula em torno de seu próprio eixo, o que causa uma mistura intensa do liquido em si próprio e as camadas paralelas não irão existir mais.	
 Reynolds nomeou seu número absoluto como sendo o número de Reynolds, que é, hoje, a base para estudo do comportamento de sistemas reais no escoamento.
 O número de Reynolds é calculado a partir da equação:
-https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_13/44637212-51ed0600-a986-11e8-8ced-6d8ad95a0465.gif
+
+(44637212-51ed0600-a986-11e8-8ced-6d8ad95a0465.gif)
+
 	O resultado dessa equação apresenta características do escoamento.
 •	Re < 2000 – Escoamento Laminar
 •	2000 < Re <2400 – Escoamento Transitório
@@ -56,6 +58,7 @@ https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/maste
   O tempo estimado para montagem do experimento é de 3 semanas, incluindo processo de compra de matérial e montagem do experimento com todas as correções executadas. O experimento será executado no Laboratório de Fluídos localizado na Universidade de Brasília Campus Gama.
   
   ### 2.3.	Cronograma ### 
+  
   - Compra de matérial até 5/10/2018
   Responsável: Todos os membros do grupo.
   - Montagem do sistema reservatório-tubo-torneira até 12/10/2018
@@ -72,12 +75,13 @@ https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/maste
   Responsável: Todos os membros do grupo.
   
    ### 2.4.	Dados e Resultados ###
-    Dado a formulação do Número de Reynolds o único parâmetro a ser medido no experimento é a velocidade do fluídos, pois os outros já foram medidos experimentalmente, com isso utilizando os dados medidos experimentalmente e a vazão a ser determinada no experimento, a lâmina de coloração azul deverá coinicidir com os seguintes resultados para o número da Reynolds dado o regime:
-    •	Re < 2000 – Escoamento Laminar
-    •	2000 < Re <2400 – Escoamento Transitório
-    •	Re > 2400 – Escoamento turbulento
-    Sendo Re o número de Reynolds.
-
+   
+   Dado a formulação do núemro de Reynolds o único parâmetro a ser medido no experimento é a velocidade do fluído a partir da vazão, pois os outros dados já foram são conhecidos por medições experimental ou propriedades e característica do fluído ou matérial utilizado no experimento, pela lâmina de água de coloração azul será possível verificar visualmente o regime do fluído, e os resultados esperados é que para número de Reynolds calculado em função da vazão siga os seguinte comportamento:
+    
+   - Re < 2000 - escoamento laminar
+   - 2000 < Re < 2400 - Escoamento Transitório
+   - Re > 2400 - Escoamento turbulento
+  
 
 ### 3.	Execução: ###
 
