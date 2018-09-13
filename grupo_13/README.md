@@ -28,12 +28,13 @@ Já regime turbulento o escoamento é visto com oscilações das molécula em to
 Reynolds nomeou seu número absoluto como sendo o número de Reynolds, que é, hoje, a base para estudo do comportamento de sistemas reais no escoamento.
 O número de Reynolds é calculado a partir da equação:
 
-(44637212-51ed0600-a986-11e8-8ced-6d8ad95a0465.gif)
 
-	O resultado dessa equação apresenta características do escoamento.
-•	Re < 2000 – Escoamento Laminar
-•	2000 < Re <2400 – Escoamento Transitório
-•	Re > 2400 – Escoamento turbulento 
+      Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/grupo_13/44637212-51ed0600-a986-11e8-8ced-6d8ad95a0465.gif
+    
+O resultado dessa equação apresenta a característica do regime do fluído.
+   - Re < 2000 - escoamento laminar
+   - 2000 < Re < 2400 - Escoamento Transitório
+   - Re > 2400 - Escoamento turbulento
 
 ### 2.2.	Procedimento experimento ###
 
