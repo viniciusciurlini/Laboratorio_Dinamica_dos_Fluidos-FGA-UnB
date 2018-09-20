@@ -92,6 +92,8 @@ Medir o coeficiente de arrasto de um objeto(à determinar).
 
 ## Relatório 02 - Grupo 02
 
+### Nota da etapa: 2,5 ###
+
 ### Integrantes
 - Richad S. F. de Souza - 14/0091793
 - Luyza Lorenna L. Lopes - 16/0135133
