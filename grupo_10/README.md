@@ -41,18 +41,65 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 ### 2.	Planejamento e Preparação: ###
 
-
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 26/08/2018**, contendo os seguintes tópicos:
-
 - Identificação do grupo;
+  - Thainá Rodrigues Fernandes - 14/0051724
+  - Danyllo Wenceslau - 16/0117364
+  - Giulliano Cezar - 13/0027260
+  
 - Teoria do experimento;
-- Procedimentos experimentais, onde as seguintes informações deverão ser colocadas:
-    - Estimativa do tempo necessário para a montagem e execução do procedimento;
-    - Membro do grupo responsável pelo procedimento de montagem e execução;
-    - Cronograma estimado para a montagem e realização do experimento completo;
-- Determinação dos dados a serem medidos e/ou calculados;
-- Resultados esperados;
 
+  O princípio de Bernoulli descreve a conservação de energia por unidade de massa de um fluido em movimento e suas aplicações são   diversas na engenharia. Para usar esse princípio é preciso considerar três condições na análise do escoamento: o escoamento deve obedecer um regime permanente, deve ser incompressível e as forças de viscosidade devem ser desprezíveis. Esse princípio pode ser usado, por exemplo, para quantificar velocidades de escoamentos estacionários de descarga de reservatórios, para estimar velocidades de um fluido em um tubo com restrições geométricas e para projetar asas de aviões. 
+
+  Tendo como base a lei de conservação de energia, o princípio de Bernuolli consiste na formulação matemática referente à descrição do movimento de um fluido ideal em um escoamento. Sendo apresentado como:
+  
+  (V²/2) + (P/rô) + g.h = cte, onde
+  - V = velocidade do fluido
+  - P = Pressão do fluido
+  - rô = Massa específica do fluido
+  - g = gravidade
+  - h = altura
+  
+  A demonstração do princípio de Bernoulli neste experimento utilizará um tubo de venturi, que possibilita a medição da velocidade do escoamento e vazão do líquido dentro do tubo através da diferença de pressão causada pela variação geométrica do aparato. Dessa forma, a aplicação do teorema de Bernoulli em trechos diferentes do sistema, deverá retornar valores que comprovem que há um continuidade de massa, ou seja, em todos os pontos do tubo, a pressão e a velocidade do fluido se ajustam de forma a retornar uma mesma taxa de vazão.
+
+
+- Procedimentos experimentais
+
+    - Estimativa do tempo necessário para a montagem e execução do procedimento;
+    
+      É estimado que seja possível realizar o experimento em sua totalidade no laboratório da FGA, em uma visita de em média 1h30min. Caso haja necessidade, devido a falta de algum dado, ou qualquer outro imprevisto, fica reservado uma data no cronograma para uma eventual segunda visita ao laboratório, mas o esperado é que a mesma não seja necessária.
+    
+    - Membro do grupo responsável pelo procedimento de montagem e execução;
+    
+      O procedimento de montagem é simples, pois será utilizada a bancada do  laboratório. Para a execução do experimento todos os membros estarão presentes.
+    
+    - Cronograma estimado para a montagem e realização do experimento completo;
+    
+      |      Dia      	|                                       Atividade                                       	|
+      |:-------------:	|:-------------------------------------------------------------------------------------:	|
+      | 27/08 - 20/09 	| Elaboração da parte teórica                                                           	|
+      |     21/09     	| Visita ao laboratório para a parte prática                                            	|
+      | 22/09 - 21/10 	| Realização dos cálculos da parte experimental                                         	|
+      |     26/10     	| Data reservada para a eventualidade de ser necessária outra visita ao laboratório     	|
+      | 27/10 - 04/11 	| Elaboração e entrega da parte 3 do relatório                                          	|
+      | 05/11 - 08/11 	| Documentar os dados obtidos                                                           	|
+      | 09/11 - 13/11 	| Realizar a análise dos resultados (comparação com a teoria e gráficos, se necessário) 	|
+      |     14/11     	| Conclusões do experimento                                                             	|
+      | 15/11 - 18/11 	| Elaboração e entrega da parte 4 do relatório                                          	|
+    
+- Determinação dos dados a serem medidos e/ou calculados;
+
+  Medidos
+
+  - Velocidade do fluido na “garganta” do Tubo Venturi
+  - Vazão (por meio do rotâmetro)
+
+  Calculados
+
+  - Coeficiente de descarga
+  
+ - Resultados esperados;
+ 
+    Como resultado, esperamos que os valores obtidos no experimento sejam coerentes, em sua totalidade, com a formulação teórica (Bernoulli), comprovando assim, todas as relações entre as variáveis da equação.
 
 ### 3.	Execução: ###
 
