@@ -30,6 +30,8 @@
  - Por fim os resultados serão estudados e colocados nos relatórios junto com sua análise detalhada nos prazos estabelecidos.
  
  # 2. Planejamento e Preparação: #
+ 
+ ### Nota da Etapa: 2,5 ###
 
 ## 2.1 Teoria ##
 
