@@ -25,6 +25,8 @@ Conseguir planejar e executar um experimento sobre o tema escolhido, visando com
 
 ## 2.	Planejamento e Preparação: ##
 
+### Nota da etapa: 2,5 ###
+
 ### Integrantes do grupo ###
   - Luiz Henrique F. Alves - 17/0163130
   - Gustavo Lima de Souza - 15/0059973
