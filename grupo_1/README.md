@@ -107,6 +107,8 @@ Régua
 
 Grupo 1 - Etapa 2 - Planejamento e Preparação 
 
+### Nota da etapa: 2,5 ###
+
 Integrantes do grupo:
 
 Caio Augusto Chaves - 160114985
