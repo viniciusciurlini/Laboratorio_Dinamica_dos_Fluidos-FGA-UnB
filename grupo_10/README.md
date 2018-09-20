@@ -41,6 +41,8 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 ### 2.	Planejamento e Preparação: ###
 
+### Nota da etapa: 2,5 ###
+
 - Identificação do grupo;
   - Thainá Rodrigues Fernandes - 14/0051724
   - Danyllo Wenceslau - 16/0117364
