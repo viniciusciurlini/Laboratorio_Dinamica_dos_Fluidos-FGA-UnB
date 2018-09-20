@@ -1,5 +1,7 @@
 # Relatório do Grupo 13: #
 
+### Nota da Etapa: 2,5 ###
+
 ### 1.1.	Integrantes do grupo: ###
 
   - Pedro Paulo de Souza Pereira - 12/0132737
@@ -19,6 +21,8 @@
 -	Será utilizado o adimensionamento de Navier-Stroke, secção 4.2.1 das notas de aula, para determinar o número de Reynolds do fluído variando a velocidade do fluído e com um corante para verificar o regime do fluído.
 
 ### 2.	Planejamento e Preparação: ###
+
+### Nota da Etapa: 2,5 ###
 
 ### 2.1.	Teoria do experimento ###
 
