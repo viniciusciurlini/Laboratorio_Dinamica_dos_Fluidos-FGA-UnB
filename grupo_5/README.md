@@ -90,6 +90,8 @@ Tubo Venturi.
 
 ## 2. Planejamento e preparação - Entrega 26/08/2018 ##
 
+### Nota da Etapa: 2,5 ###
+
 *Correção da primeira etapa*
   Devido a disponibilidade de equipamento compatível com o experimento no laboratório de termofluidos da Faculdade do Gama, optou-se pela realização do experimento no próprio laboratório com o Kit de Venturi disponível na Universidade. 
   
