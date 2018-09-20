@@ -3,10 +3,6 @@
   - Abia Matos de Oliveira - 15/0004206
   - Gabriel Batista dos Santos Sousa - 14/0020381
   - Mairon Cruvinel - 09/0123999
-  
-  ### Nota da etapa: 2,0 ###
-  
-  - O grupo deverá refazer a etapa 1 para manter a nota!
 
 ### 1.	Início: ###
 
@@ -71,6 +67,8 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 #### Grupo 11 - Etapa 1 ####
 
+### Nota da etapa: 2,0 ###
+
 - Integrantes: 
 
  Abia Matos de Oliveira - 15/0004206,  Gabriel Batista dos Santos Sousa - 14/0020381, Mairon Cruvinel - 09/0123999.
@@ -89,6 +87,8 @@ Revisão teórica sobre a perda de carga em tubulações. Montagem do sistema no
 
 
 #### Grupo 11 - Etapa 2 ####
+
+### Nota da etapa: 2,5 ###
 
 - Integrantes: 
 
