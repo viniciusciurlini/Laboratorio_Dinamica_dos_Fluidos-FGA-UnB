@@ -5,6 +5,10 @@
   - Letícia Dias - 14/0149414
 
 # RELATÓRIO 2 - GRUPO 9 #
+
+### Nota da Etapa: 2,5 ###
+
+
 2.	Planejamento e Preparação
 Gabriel Casari - 13/0009091
 Bruno Martins - 14/0017682
