@@ -71,6 +71,8 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
  # 1. Início #
  
+ ### Nota da etapa: 2,5 ###
+ 
  - Integrantres:
  
 Davi Matias Dutra da Silva - 12/0044871
@@ -92,6 +94,8 @@ Mayra Carolina Pinto de Souza - 17/0053059
  Construir um aerofólio de isopor e revesti-lo para experimentos no túnel de vento.
  
  # 2. Planejamento e Preparação #
+ 
+ ### Nota da etapa: 2,5 ###
  
  - Identificação do grupo:
  
