@@ -5,23 +5,21 @@
   - Clara Costa Pinheiro - 16/0048958
 
 ### 1.	Início: ###
+
+### Nota da Etapa: 2,0 ###
      
 Tema escolhido:
 
-      O experimento escolhido inicialmente
-tinha relação com o Efeito Magnus, contudo, o grupo teria dificuldade em fazer
+O experimento escolhido inicialmente tinha relação com o Efeito Magnus, contudo, o grupo teria dificuldade em fazer
 a montagem e aquisição dos materiais. Por isso, foi escolhido outro experimento
 e o tema teve que ser mudado, sendo agora experimentos em túnel de vento.
       
 
 Teoria do experimento:
 
-      Para o experimento escolhido uma
-teoria é importante: Principio de Bernoulli.
+Para o experimento escolhido uma teoria é importante: Principio de Bernoulli.
 
-      Enunciando o Princípio de Bernoulli: “Se a velocidade de uma
-partícula de um fluido aumenta enquanto ela se escoa ao longo de uma linha de
-corrente, a pressão do fluido deve diminuir e vice-versa”. Ou seja, no percurso do fluxo de um fluido,
+Enunciando o Princípio de Bernoulli: “Se a velocidade de uma partícula de um fluido aumenta enquanto ela se escoa ao longo de uma linha de corrente, a pressão do fluido deve diminuir e vice-versa”. Ou seja, no percurso do fluxo de um fluido,
 velocidade e pressão são grandezas inversamente proporcionais. Esse princípio
 faz parte da teoria que explica a sustentação da asa de um avião.
       Um aspecto importante desse conceito foram as restrições feitas:
@@ -34,6 +32,8 @@ o   Escoamento ao longo de uma linha de corrente.
 
       
 ### 2.	Planejamento e Preparação: ###
+
+### Nota da Etapa: 2,5 ###
 
 
 •	Procedimentos experimentais:
