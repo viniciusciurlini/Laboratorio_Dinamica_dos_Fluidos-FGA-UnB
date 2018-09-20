@@ -21,6 +21,8 @@
 - Utilização da placa de orifico para medição da diferença de pressão e cálculos para determinação da vazão.
 
 # 5. Planejamento e Preparação #
+
+### Nota da Etapa: 2,5 ###
 Integrantes do grupo:
 •	Vitor Rodrigues Rossi - 14/0066632
 •	Matheus Lino do Amaral - 14/0155457
