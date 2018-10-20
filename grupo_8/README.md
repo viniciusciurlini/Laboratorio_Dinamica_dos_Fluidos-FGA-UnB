@@ -90,6 +90,9 @@ Escopo do experimento – Estabelecimento de tarefas mínimas para cumprir os ob
 - Através da pesquisa sobre o número de Reynolds, escolher o(s) fluido(s) de pesquisa e realizar os experimentos de escoamento para analisarmos quais são as características de tal utilizando a teoria por trás do número de Reynolds. Além de concluir como este número pode ser utilizado na escolha de projetos ou missões, a partir da pesquisa experimental. 
 
 **RELATÓRIO 2 - GRUPO 8**
+
+
+### Nota da etapa: 2,5 ###
 ### Identificação do grupo ###
 Beatriz Carolina - 16/0002958
 Gustavo Saraiva - 16/0050537
