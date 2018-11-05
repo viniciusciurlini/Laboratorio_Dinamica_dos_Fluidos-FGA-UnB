@@ -81,17 +81,39 @@ Calcular a perda de carga para os diferentes tipos de tubulações e montagens d
 
 
 
-### 3.	Execução: ###
+## 3.	Execução: ##
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 04/11/2018**, contendo os seguintes tópicos:
+### Integrantes do grupo ###
+  - Luiz Henrique F. Alves - 17/0163130
+  - Gustavo Lima de Souza - 15/0059973
+  - Bruno Souza Nunes - 18/0117670
+ 
+### Divisão de tarefas ###
+O cronograma de visitas estimado na Etapa 2 não pôde ser cumprido devido a alguns imprevistos. Porém, o experimento ainda pôde ser concluído com sucesso dentro do deadline esperado em apenas 2 visitas ao laboratório. Os dias escolhidos para visita foram tais que permitiam que todos os membros estivessem presentes.
+- 1° visita – 14/09/2018, às 10:15.
+- 2° visita – 05/10/2018, às 10:20.
+ 
+### Descrição dos procedimentos ###
+A bancada para realização do experimento de perda de carga é mostrada abaixo.
+![Bancada](https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_4/Bancada.jpg)
 
-- Integrantes do grupo;
-- Divisão de tarefas, conforme descrito na etapa 2. Se houver mudança em relação à etapa 2, uma justificativa deverá ser apresentada;
-- Descrição dos procedimentos realizados, onde deverão ser apresentados:
-  - Fotos do experimento montado;
-  - Descrição de cada procedimento executado e justificativa, se houver diferença com a etapa 2;
-  - Dados medidos;
+Foram escolhidas 2 tubulações para a realização do experimento, nos quais foi medida a pressão em diferentes pontos de escoamento. Com o intuito de realizar um experimento diferente daqueles realizados pelos outros grupos, foi decidido trabalhar com variação da vazão volumétrica através da abertura ou fechamento da seguinte válvula, que controla o fluxo da água em direção as tubulações.
 
+![Válvula](https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_4/V%C3%A1lvula.jpg)
+
+Inicialmente, os diâmetros dos tubos foram medidos com o auxílio do seguinte paquímetro. 
+![Paquímetro_digital](https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_4/Paqu%C3%ADmetro.jpg)
+
+Foram feitas 3 medidas dos diâmetros externos dos tubos e tiradas as suas médias: DB=25,3 ± 0,5mm e DE=25,3 ± 0,1mm, onde DB e DE referem-se aos diâmetros externos dos tubos B e E, respectivamente.
+
+Em seguida, foram definidas as 2 tubulações – uma sem válvulas e outra com 2 válvulas de estrangulamento, a fim de tentar observar justamente como componentes com esses podem influenciar na perda de carga. A pressão foi medida em vários pontos ao longo das tubulações e seu valor foi observado no manômetro acoplado à bancada.
+![Manômetro](https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_4/Man%C3%B4metro.jpg)
+
+Conforme a vazão volumétrica foi sendo alterada, cada ponto de tomada de pressão das 2 tubulações foi medido. Os dados medidos estão dispostos abaixo:
+
+![Tabela_valores](https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_4/Tabela.png)
+
+onde B refere-se ao segundo e E ao quinto tubo, contados de baixo para cima.
 
 ### 4.	Análise e conclusão: ###
 
