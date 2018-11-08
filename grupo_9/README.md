@@ -4,6 +4,60 @@
   - Bruno Martins - 14/0017682
   - Letícia Dias - 14/0149414
 
+# RELATÓRIO 3 - GRUPO 9 #
+
+### 3.	Execução: ###
+
+1 - Integrantes do Grupo:
+- Gabriel Casari - 13/0009091
+- Bruno Martins - 14/0017682
+- Letícia Dias - 14/0149414
+ 
+2 - Divisão de Tarefas
+
+Gabriel: Compra de Materiais, Montagem e Parte Experimental
+Letícia: Montagem, Parte Experimental e Relatório 
+Bruno: Compra de Materiais, Montagem e Parte Experimental
+
+3 - Descrição dos Procedimentos:
+
+   Para o experimento de Perda de Carga, o grupo decidiu por montar um bancada para elaboração de testes a fim de tornar possível a visualização do da perda de carga em tubulações com alteração de curso por meio de pontos de verificação no decorrer da tubulação.
+   
+   Os materiais necessários para montagem da bancada foram:
+   
+   - Cano PVC 1/2' (3m)
+   - 9 Joelhos PVC 1/2'
+   - Mangueira para torres de Medição - Transparente (2m)
+   - Mangueira para tomada de Água 1/2' (3m)
+   - Fita Métrica/Régua
+   - Tinta Spray Prata
+   - Massa Epoxy (1 Unidade)
+   - Lixa de Gramatura 600 (1 Unidade)
+   - Adaptador para Torneira   
+   
+  FOTO DA BANCADA SEM COR (MONTANDO)
+  
+      
+ Para a montagem da bancada realizou-se o corte das seções, sendo:
+    	-Cano PVC 1/2' 30cm (6 unidades)
+	-Cano PVC 1/2' 15cm (3 unidades)
+	
+ As  extremidades dos canos foram lixadas para que os mesmos encaixassem devidamente e não ocorressem vazamentos.
+ As junções foram feitas utilizando os joelhos PVC 1/2' realizando o trajeto desejado. Com uma furadeira foram ofeitos os furos nos pontos de medição de interesse onde encaixou-se as mangueiras transparentes para a visualização da diferença de altura do fluido nos diferentes pontos da bancada.
+	 
+ FOTO TUBOS TRANSPARENTES NA BANCADA
+ FOTO DA BANCADA MONTADA
+	 
+ Após a montagem, foi realizada uma verificação de vazamentos, fechando a saída do sistema e adicionando água sob pressão e não foi constatado vazamentos nas junções e nos pontos de verificação. 
+	 
+ Na realização dos testes da bancada já foi possível observar o funcionamento, onde visualmente o nível da água nas mangueiras de medição já se apresentava com diferenças consideráveis indo de encontro com os resultados esperados, onde nos 3 pontos apresentaram alturas diferentes indicando a perda de carga de acordo com decorrer da tubulação e seus desvios.
+	 
+A montagem da bancada com diferentes medidas e diversos pontos de curva tiveram como finalidade variar a perda de carga em diferentes intensidades
+	 	 FOTOS EXPERIMENTO MONTADO (3 OU 4 FOTOS)
+	 
+	
+Para próxima etapa, serão realizadas as medições utilizando um reservatório alimentado por uma mangueira para que não ocorra variação no nível e oscilação dos resultados que serão obtidos e analisados.
+
 # RELATÓRIO 2 - GRUPO 9 #
 
 ### Nota da Etapa: 2,5 ###
