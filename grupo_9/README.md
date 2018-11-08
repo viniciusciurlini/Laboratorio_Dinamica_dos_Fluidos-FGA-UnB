@@ -35,7 +35,7 @@ Bruno: Compra de Materiais, Montagem e Parte Experimental
    - Lixa de Gramatura 600 (1 Unidade)
    - Adaptador para Torneira   
    
-  FOTO DA BANCADA SEM COR (MONTANDO)
+ ![cano](https://user-images.githubusercontent.com/42454195/48215780-2022f300-e36a-11e8-9600-5b9dc5d5af87.jpeg)
   
       
  Para a montagem da bancada realizou-se o corte das seções, sendo:
@@ -45,15 +45,18 @@ Bruno: Compra de Materiais, Montagem e Parte Experimental
  As  extremidades dos canos foram lixadas para que os mesmos encaixassem devidamente e não ocorressem vazamentos.
  As junções foram feitas utilizando os joelhos PVC 1/2' realizando o trajeto desejado. Com uma furadeira foram ofeitos os furos nos pontos de medição de interesse onde encaixou-se as mangueiras transparentes para a visualização da diferença de altura do fluido nos diferentes pontos da bancada.
 	 
- FOTO TUBOS TRANSPARENTES NA BANCADA
- FOTO DA BANCADA MONTADA
+ ![detalhe](https://user-images.githubusercontent.com/42454195/48215799-29ac5b00-e36a-11e8-863b-cee4028932f6.jpeg)
+ 
+ ![montagem](https://user-images.githubusercontent.com/42454195/48215814-34ff8680-e36a-11e8-8411-3ab75c34a26d.jpeg)
 	 
  Após a montagem, foi realizada uma verificação de vazamentos, fechando a saída do sistema e adicionando água sob pressão e não foi constatado vazamentos nas junções e nos pontos de verificação. 
 	 
  Na realização dos testes da bancada já foi possível observar o funcionamento, onde visualmente o nível da água nas mangueiras de medição já se apresentava com diferenças consideráveis indo de encontro com os resultados esperados, onde nos 3 pontos apresentaram alturas diferentes indicando a perda de carga de acordo com decorrer da tubulação e seus desvios.
 	 
 A montagem da bancada com diferentes medidas e diversos pontos de curva tiveram como finalidade variar a perda de carga em diferentes intensidades
-	 	 FOTOS EXPERIMENTO MONTADO (3 OU 4 FOTOS)
+
+![pronto](https://user-images.githubusercontent.com/42454195/48216020-c7078f00-e36a-11e8-9095-373f8cfc7839.jpeg)
+
 	 
 	
 Para próxima etapa, serão realizadas as medições utilizando um reservatório alimentado por uma mangueira para que não ocorra variação no nível e oscilação dos resultados que serão obtidos e analisados.
