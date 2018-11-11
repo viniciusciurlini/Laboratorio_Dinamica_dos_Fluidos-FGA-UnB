@@ -256,4 +256,4 @@ Além das velocidades aferidas,da área medida, foi possível tambem visualisar 
 
 [Linhas de Corrente-vídeo](video.mp4)
 
-Para a visualização das linhas de corrente, foi preciso utilizar um túnel de vento menor bem como outro corpo de prova devido a quantidade de incenso e a luminosidade principalmente.Mesmo assim, foi possível observar com clareza o que foi proposto
+Para a visualização das linhas de corrente, foi preciso utilizar um túnel de vento menor bem como outro corpo de prova devido a quantidade de incenso e a luminosidade principalmente.Mesmo assim, foi possível observar com clareza o que foi proposto.
