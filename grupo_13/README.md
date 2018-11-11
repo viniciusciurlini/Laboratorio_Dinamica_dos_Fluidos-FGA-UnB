@@ -83,7 +83,7 @@ O resultado dessa equação apresenta a característica do regime do fluído.
    Dado a formulação do núemro de Reynolds o único parâmetro a ser medido no experimento é a velocidade do fluído a partir da vazão, pois os outros dados já foram são conhecidos por medições experimental ou propriedades e característica do fluído ou matérial utilizado no experimento, pela lâmina de água de coloração azul será possível verificar visualmente o regime do fluído, e os resultados esperados é que para número de Reynolds calculado em função da vazão siga os seguinte comportamento:
     
    - Re < 2000 - escoamento laminar
-   - 2000 < Re < 2400 - Escoamento Transitório
+   - 2000 < Re < 2400 - Escoamento Transitório.
    - Re > 2400 - Escoamento turbulento
   
 
