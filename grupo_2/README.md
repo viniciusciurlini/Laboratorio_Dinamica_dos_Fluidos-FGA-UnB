@@ -198,7 +198,7 @@ O corpo de prova escolhido teria de ser compatível para que fosse possível ana
 
 ![Figura 01-Dimensões do corpo de prova](cpdim.jpg)
 
-![Figura 02-Corpo de prova](corpo de prva.jpg)
+
 
 #### Procedimento 2: Ensaio do corpo de prova no túnel de vento ####
 
