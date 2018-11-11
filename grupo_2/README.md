@@ -245,3 +245,15 @@ O valor de ![S3](s3.gif) utilizado neste experimento se enquadra no Grupo 3-Edif
 [Figura 09-Coeficiente de arrasto para vento a 0°](cofar0.jpg)
 
 [Figura 10-Coeficiente de arrasto para vento a 90°](cofar90.jpg)
+
+Além das velocidades aferidas,da área medida, foi possível tambem visualisar brevemente as linhas de corrente , afim de poder identificar características do escoamento.Para isso, foi utilizado incenso para que fosse possível tal visualização.O resultado desta etapa do procedimento foi filmada e está disponibilizada para download logo abaixo.
+
+[Linhas de Corrente-gif 1](tv4m.mp4)
+
+[Linhas de Corrente-gif 2](gif1.mp4)
+
+[Linhas de Corrente-gif 3](gif2.mp4)
+
+[Linhas de Corrente-vídeo](video.mp4)
+
+Para a visualização das linhas de corrente, foi preciso utilizar um túnel de vento menor bem como outro corpo de prova devido a quantidade de incenso e a luminosidade principalmente.Mesmo assim, foi possível observar com clareza o que foi proposto
