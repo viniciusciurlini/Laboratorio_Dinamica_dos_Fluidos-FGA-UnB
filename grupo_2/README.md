@@ -196,6 +196,10 @@ OBS.:Como ainda não possuimos medidas do túnel de vento, não foi possível el
 
 O corpo de prova escolhido teria de ser compatível para que fosse possível analisar o coeficiente de arrasto em edificações.De forma bem simplória, o corpo de prova foi fabricado em formato de paralelepípedo simulando uma edificação simples.As medidas da referida maquete estão discriminadas imediatamente abaixo.
 
+![Figura 01-Dimensões do corpo de prova](cpdim.jpg)
+
+![Figura 02-Corpo de prova](corpo de prva.jpg)
+
 #### Procedimento 2: Ensaio do corpo de prova no túnel de vento ####
 
 -Responsável:Todos
