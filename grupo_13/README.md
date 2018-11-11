@@ -89,6 +89,32 @@ O resultado dessa equação apresenta a característica do regime do fluído.
 
 ### 3.	Execução: ###
 
+
+  -Integrantes do grupo;
+  
+    - Vinícius Tadeu Ciurlini - 16/0148103
+    - Leonardo Julio Chagas Souza - 13/0143413
+    
+   -Divisão de tarefas
+    - Compra de matérial até 31/10/2018
+  Responsável: Vinicius Tadeu Ciurlini, Leonardo Julio Chagas Souza;
+  - Montagem do sistema reservatório-tubo-torneira até 07/11/2018
+  Responsável: Vinicius Tadeu Ciurlini;
+  - Teste do sistema reservatório-tubo-torneira até 07/11/2018 
+  Responsável:Vinicius Tadeu Ciurlini; Leonardo Julio Chagas Souza;
+  - Preparação da água com coloração azul
+  Responsável: Leonardo Julio Chagas Souza;
+  - Preparação da lâmina de água no sistema reservátorio-tubo-torneira até 07/11/2018
+  Responsável: Vinícius Tadeu Ciurlini; Leonardo Julio Chagas Souza;
+  - Teste da lâmina de água no sistema reservátorio-tubo-torneira até 07/11/2018
+  Responsável: Vinícius Tadeu Ciurlini; Leonardo Julio Chagas Souza;
+  - Resultados do experimento até 07/11/2018
+  Responsável: Vinicius Tadeu Ciurlini.
+   
+   Por conta da falta de um intergrante no grupo, datas tiveram que ser adiadas e tarefas redistribuidas.
+   
+   
+
 O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 04/11/2018**, contendo os seguintes tópicos:
 
 - Integrantes do grupo;
