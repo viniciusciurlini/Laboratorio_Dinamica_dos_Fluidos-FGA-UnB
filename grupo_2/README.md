@@ -234,3 +234,9 @@ Onde:
  
  [Figura 07-Tabela de Fator ![s22](s22.gif)](fators2.jpg)
  
+O fator ![S3](s3.gif), por sua vez está diretamente relacionado à conceitos estáticos, e leva em consideração o grau de segurança requerido além da vida útil da edificação.O fator ![S3](s3.gif), também é retirado de uma tabela de valores mínimos do fator ![S3](s3.gif).
+
+[Figura 08-Valores mínimos do fator ![S3](s3.gif)](fators3.jpg)
+
+O valor de ![S3](s3.gif) utilizado neste experimento se enquadra no Grupo 3-Edificações e instalações industriais com baixo fator de
+3 ocupação (depósitos, silos, construções rurais, etc.).
