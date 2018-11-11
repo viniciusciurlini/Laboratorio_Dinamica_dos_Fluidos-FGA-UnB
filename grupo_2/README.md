@@ -204,4 +204,33 @@ O corpo de prova escolhido teria de ser compatível para que fosse possível ana
 
 -Responsável:Todos
 
-Na primeira parte desta etapa, está contemplado a coleta de dados do túnel de vento, tais como área de seção transversal , velocidade de entrada e velocidade de saída.Para aferir a seção transversal, foi utilizado uma trena e para as velocidades, um anemômetro disponibilizado no laboratório.Os resultados das velocidades obtidas estão discriminados na tabela, e as dimensões da seção transversal na figura abaixo.
+  Na primeira parte desta etapa, está contemplado a coleta de dados do túnel de vento, tais como área de seção transversal , velocidade de entrada e velocidade de saída.Para aferir a seção transversal, foi utilizado uma trena e para as velocidades, um anemômetro disponibilizado no laboratório.Os resultados das velocidades obtidas estão discriminados na tabela, e as dimensões da seção transversal na figura abaixo.
+
+[Figura 03-Seção transversal](sectransv.jpg)
+
+  Na segunda parte desta etapa, o corpo de prova fabricado foi levado ao túnel de vento e lá foram feitas aferições das velocidades de entrada e saída.
+
+[Figura 04-Túnel de vento](tv.jpg)
+
+  Além de aferir as velocidades, nesta etapa foi preciso analisar como calcular a força que atuando no corpo de prova devido ao escoamento,dado extremamente necessário para o cálculo do coeficiente de arrasto.Para tanto, foi utilizado como auxílio o software Ciclone v 5.0.1.beta, tendo como base a norma “NBR-6123-Forças devido ao vento em edificações”.Feitas as devidas simulações,foi possível validar os dados obtidos experimentalmente,com o modelo da simulação.
+  
+  Assim, a partir da norma alguns dados de entrada para o cálculo do coeficiente de arrasto, tais como velocidade básica do vento, velocidade característica,pressão dinâmica,fatores ![S1](s1.gif),![S2](s22.gif) e ![S3](s3.gif) .A velocidade básica do vento, é a velocidade local.Este dado é retirado do gráfico de isopletas de velocidade disposto na norma.Na região do Distrito Federal, a velocidade básica adotada foi de 32 m/s.
+
+[Figura 05-Isopletas de velocidades.Fonte:NBR-6123/1988)](isopl.jpg)
+
+  De acordo com a norma, o fator ![S1](s1.gif) está relacionado com a topografia do terreno.O valor adotado será ![S1](s1.gif) =1, que está relacionado a terrenos planos ou fracamente acidentados.
+  Já o fator ![s22](s22.gif) está ligado à rugosidade do terreno,dimensões da edificação e altura sobre o terreno.Esse valor é calculado pela seguinte equação:
+
+![s2](s2.gif)
+
+Onde:
+- b:lado menor,a menor dimensão horizontal de uma edificação;
+- p:expoente da lei potencial de variação de ![s22](s22.gif);
+- z:cota acima do terreno;e
+- Fr:Fator de rajada.
+  Os valores de b,p e Fr podem ser facilmente encontrados na tabela de Parâmetros meteorológicos e pela tabela de fator s2, disposta imediatamente abaixo.
+ 
+ [Figura 06-Tabela de Parâmetros Meteorólogicos](parametrosmeteorológicos.jpg)
+ 
+ [Figura 07-Tabela de Fator ![s22](s22.gif)](fators2.jpg)
+ 
