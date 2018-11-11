@@ -234,9 +234,14 @@ Onde:
  
  [Figura 07-Tabela de Fator ![s22](s22.gif)](fators2.jpg)
  
-O fator ![S3](s3.gif), por sua vez está diretamente relacionado à conceitos estáticos, e leva em consideração o grau de segurança requerido além da vida útil da edificação.O fator ![S3](s3.gif), também é retirado de uma tabela de valores mínimos do fator ![S3](s3.gif).
+O fator ![S3](s3.gif) , por sua vez está diretamente relacionado à conceitos estáticos, e leva em consideração o grau de segurança requerido além da vida útil da edificação.O fator ![S3](s3.gif) , também é retirado de uma tabela de valores mínimos do fator ![S3](s3.gif) .
 
 [Figura 08-Valores mínimos do fator ![S3](s3.gif)](fators3.jpg)
 
 O valor de ![S3](s3.gif) utilizado neste experimento se enquadra no Grupo 3-Edificações e instalações industriais com baixo fator de
 3 ocupação (depósitos, silos, construções rurais, etc.).
+  A partir destes dados, foi possível calcular o a velocidade característica Vk e ,subsequentemente a pressão dinâmica(q) tanto para o vento incidindo na face maior  (20,4cm x 30,8cm) quanto na face menor (20,5cm x 30,8cm).Por questões de compatibilidade com o software Ciclone, as dimensões foram multiplicadas por um fator 10 e convertidas para a unidade padrão "metro".Depois de inseridos os valores no programa, os dados obtidos para o coeficiente atrito de pressão estão disponibilizados logo abaixo.
+  
+[Figura 09-Coeficiente de arrasto para vento a 0°](cofar0.jpg)
+
+[Figura 10-Coeficiente de arrasto para vento a 90°](cofar90.jpg)
