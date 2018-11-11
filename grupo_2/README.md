@@ -182,3 +182,22 @@ Ou seja:
     - ![caeqn](https://user-images.githubusercontent.com/30841143/44636033-a93ba800-a97f-11e8-904d-b2e42a827b47.gif)
 
 OBS.:Como ainda não possuimos medidas do túnel de vento, não foi possível elaborar um modelo de corpo de prova e assim um valor de coeficiente de arrasto esperado.O material do corpo de prova será MDF(Medium Density Fiberboard). 
+
+## Relatório 03-Grupo 02
+
+### Integrantes
+- Richad S. F. de Souza - 14/0091793
+- Luyza Lorenna L. Lopes - 16/0135133
+- Matheus de Avila Mariano - 16/0137896
+
+#### Procedimento 1: Escolha e fabricação do corpo de prova ####
+
+-Responsável:Richard
+
+O corpo de prova escolhido teria de ser compatível para que fosse possível analisar o coeficiente de arrasto em edificações.De forma bem simplória, o corpo de prova foi fabricado em formato de paralelepípedo simulando uma edificação simples.As medidas da referida maquete estão discriminadas imediatamente abaixo.
+
+#### Procedimento 2: Ensaio do corpo de prova no túnel de vento ####
+
+-Responsável:Todos
+
+Na primeira parte desta etapa, está contemplado a coleta de dados do túnel de vento, tais como área de seção transversal , velocidade de entrada e velocidade de saída.Para aferir a seção transversal, foi utilizado uma trena e para as velocidades, um anemômetro disponibilizado no laboratório.Os resultados das velocidades obtidas estão discriminados na tabela, e as dimensões da seção transversal na figura abaixo.
